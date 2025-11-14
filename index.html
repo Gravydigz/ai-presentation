@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI & Information Technology Presentation</title>
+
+    <!-- Reveal.js CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/reveal.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/theme/black.css">
+
+    <!-- Custom CSS -->
+    <style>
+        :root {
+            --primary-color: #00d9ff;
+            --secondary-color: #bd00ff;
+            --warning-color: #ff006e;
+        }
+
+        .reveal {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .reveal h1, .reveal h2, .reveal h3 {
+            color: var(--primary-color);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+
+        .reveal section {
+            text-align: left;
+        }
+
+        .reveal .title-slide {
+            text-align: center;
+        }
+
+        .reveal .split-slide {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        .reveal .movie-clip {
+            border: 3px solid var(--primary-color);
+            border-radius: 10px;
+            padding: 1rem;
+            background: rgba(0, 217, 255, 0.1);
+        }
+
+        .reveal .highlight {
+            color: var(--primary-color);
+            font-weight: bold;
+        }
+
+        .reveal .warning {
+            color: var(--warning-color);
+            font-weight: bold;
+        }
+
+        .reveal ul {
+            list-style-type: none;
+        }
+
+        .reveal ul li:before {
+            content: "▹ ";
+            color: var(--primary-color);
+            font-weight: bold;
+            margin-right: 0.5rem;
+        }
+
+        .reveal .timeline {
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .reveal .timeline:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--primary-color);
+        }
+
+        .reveal .timeline li {
+            margin: 1rem 0;
+            padding-left: 1rem;
+        }
+
+        .reveal .section-transition {
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .reveal .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+
+        .reveal .comparison > div {
+            padding: 1.5rem;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .reveal code {
+            color: var(--primary-color);
+        }
+
+        .reveal img {
+            border: 2px solid var(--primary-color);
+            border-radius: 10px;
+        }
+
+        .reveal .fragment.fade-up {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        .reveal .fragment.fade-up.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Speaker notes styling */
+        .reveal .notes {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- Slide 1: Title -->
+            <section class="title-slide" data-background-gradient="linear-gradient(135deg, #667eea 0%, #764ba2 100%)">
+                <h1>The Future is Now</h1>
+                <h2>Understanding AI and Information Technology</h2>
+                <p style="margin-top: 2rem; font-size: 1.2em;">From Science Fiction to Science Fact</p>
+                <aside class="notes">
+                    Welcome everyone! Today we're diving into one of the most exciting and transformative topics of our time -
+                    Artificial Intelligence and Information Technology. We'll explore how AI went from movie screens to our daily lives,
+                    and what it means for our future.
+                </aside>
+            </section>
+
+            <!-- Slide 2: Poll/Ice Breaker -->
+            <section>
+                <h2>Quick Question</h2>
+                <p style="font-size: 1.3em; margin-bottom: 1.5rem;">How many of you have used AI today?</p>
+                <ul>
+                    <li class="fragment">ChatGPT or similar AI chatbot</li>
+                    <li class="fragment">Social media recommendations</li>
+                    <li class="fragment">Auto-correct on your phone</li>
+                    <li class="fragment">Music/video streaming suggestions</li>
+                </ul>
+                <aside class="notes">
+                    Let's start interactive! The truth is, most of us use AI multiple times a day without even realizing it.
+                    Whether it's your phone's autocorrect, Netflix recommendations, or that Snapchat filter - AI is already part of your daily routine.
+                </aside>
+            </section>
+
+            <!-- Slide 3: The Sci-Fi Promise -->
+            <section data-background-color="#1a1a2e">
+                <h2>AI in Pop Culture: The Dream (and the Nightmare)</h2>
+                <div class="split-slide">
+                    <div>
+                        <div class="movie-clip fragment">
+                            <h3>HAL 9000</h3>
+                            <p>2001: A Space Odyssey</p>
+                            <p style="font-style: italic; color: var(--warning-color);">"I'm sorry, Dave. I can't do that."</p>
+                            <!-- Add video or image here -->
+                        </div>
+                        <div class="movie-clip fragment" style="margin-top: 1rem;">
+                            <h3>Skynet</h3>
+                            <p>The Terminator</p>
+                            <p style="font-style: italic;">When AI decides humans are the problem</p>
+                            <!-- Add video or image here -->
+                        </div>
+                    </div>
+                    <div>
+                        <div class="movie-clip fragment">
+                            <h3>Master Control Program</h3>
+                            <p>Tron</p>
+                            <p style="font-style: italic;">AI taking over the digital world</p>
+                            <!-- Add video or image here -->
+                        </div>
+                    </div>
+                </div>
+                <aside class="notes">
+                    For decades, Hollywood has been both fascinated and terrified by AI. HAL 9000 showed us an AI that became too independent.
+                    The Terminator warned us about AI apocalypse. These movies shaped how we think about AI - often focusing on the scary "what ifs."
+                    But how close are these to reality?
+                </aside>
+            </section>
+
+            <!-- Slide 4: What Actually IS AI? -->
+            <section>
+                <h2>AI Demystified</h2>
+                <div class="split-slide">
+                    <div>
+                        <h3 class="highlight">Artificial Intelligence</h3>
+                        <p>Machines that can:</p>
+                        <ul>
+                            <li class="fragment">Learn from experience</li>
+                            <li class="fragment">Adapt to new inputs</li>
+                            <li class="fragment">Perform human-like tasks</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="highlight">Think of it as:</h3>
+                        <ul>
+                            <li class="fragment">Teaching a computer to recognize patterns</li>
+                            <li class="fragment">Like training a really smart digital assistant</li>
+                            <li class="fragment"><span class="warning">Not (yet)</span> creating conscious beings like in the movies</li>
+                        </ul>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Strip away the Hollywood drama, and AI is fundamentally about pattern recognition and learning.
+                    It's software that gets better at tasks through experience - similar to how you get better at a video game the more you play.
+                </aside>
+            </section>
+
+            <!-- Slide 5: Brief History -->
+            <section>
+                <h2>From Theory to Reality</h2>
+                <ul class="timeline">
+                    <li class="fragment"><strong>1950s</strong> - Alan Turing asks "Can machines think?"</li>
+                    <li class="fragment"><strong>1997</strong> - Deep Blue beats world chess champion</li>
+                    <li class="fragment"><strong>2011</strong> - IBM Watson wins Jeopardy!</li>
+                    <li class="fragment"><strong>2016</strong> - AlphaGo defeats Go world champion</li>
+                    <li class="fragment"><strong>2022</strong> - ChatGPT launches, AI goes mainstream</li>
+                    <li class="fragment"><strong>2023-2025</strong> - AI explosion in creative tools, coding, and more</li>
+                </ul>
+                <aside class="notes">
+                    AI isn't new - it's been developing for over 70 years! But we've seen exponential growth in the last decade.
+                    What took decades to achieve in chess now happens daily with more complex tasks.
+                </aside>
+            </section>
+
+            <!-- Slide 6: How Does AI Work? -->
+            <section>
+                <h2>The Magic Behind the Curtain</h2>
+                <h3 class="highlight">Machine Learning 101:</h3>
+                <ol style="font-size: 1.2em; line-height: 2;">
+                    <li class="fragment"><strong>Feed it data</strong> (thousands/millions of examples)</li>
+                    <li class="fragment"><strong>It finds patterns</strong> (what makes a cat a cat, what makes spam spam)</li>
+                    <li class="fragment"><strong>It makes predictions</strong> (is this email spam? is this image a cat?)</li>
+                    <li class="fragment"><strong>It improves</strong> (learns from mistakes)</li>
+                </ol>
+                <p class="fragment" style="margin-top: 2rem; font-size: 1.1em; color: var(--primary-color);">
+                    <strong>Analogy:</strong> Like showing a toddler 1,000 pictures of dogs until they can spot a dog anywhere!
+                </p>
+                <aside class="notes">
+                    Machine learning is the engine behind most modern AI. It's not programmed with explicit rules - instead,
+                    it learns patterns from massive amounts of data. The more data, the better it gets!
+                </aside>
+            </section>
+
+            <!-- Slide 7: Types of AI -->
+            <section>
+                <h2>The AI Family Tree</h2>
+                <div style="margin-top: 2rem;">
+                    <div class="fragment" style="background: rgba(0, 217, 255, 0.1); padding: 1.5rem; margin: 1rem 0; border-left: 4px solid var(--primary-color);">
+                        <h3>Narrow AI <span style="font-size: 0.7em;">(What we have now)</span></h3>
+                        <ul>
+                            <li>Good at ONE specific task</li>
+                            <li>Chess AI, voice assistants, recommendation systems</li>
+                            <li>Can't transfer skills to other tasks</li>
+                        </ul>
+                    </div>
+                    <div class="fragment" style="background: rgba(189, 0, 255, 0.1); padding: 1.5rem; margin: 1rem 0; border-left: 4px solid var(--secondary-color);">
+                        <h3>General AI <span style="font-size: 0.7em;">(The sci-fi dream)</span></h3>
+                        <ul>
+                            <li>Can do ANY intellectual task a human can</li>
+                            <li>Learns and adapts like humans</li>
+                            <li><span class="warning">We're NOT there yet!</span></li>
+                        </ul>
+                    </div>
+                    <div class="fragment" style="background: rgba(255, 0, 110, 0.1); padding: 1.5rem; margin: 1rem 0; border-left: 4px solid var(--warning-color);">
+                        <h3>Super AI <span style="font-size: 0.7em;">(The Terminator scenario)</span></h3>
+                        <ul>
+                            <li>Surpasses human intelligence in every way</li>
+                            <li>Purely theoretical</li>
+                            <li>Decades or centuries away (if ever)</li>
+                        </ul>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Important distinction: Today's AI is "narrow" - your Spotify AI can't suddenly decide to drive your car.
+                    We don't have the human-level AI from the movies yet, and we're nowhere near Skynet territory!
+                </aside>
+            </section>
+
+            <!-- Section Transition -->
+            <section class="section-transition" data-background-gradient="linear-gradient(135deg, #f093fb 0%, #f5576c 100%)">
+                <h1>AI in YOUR World</h1>
+                <p style="font-size: 1.5em; margin-top: 2rem;">Modern tools you can use right now</p>
+                <aside class="notes">
+                    Now let's get practical. What AI tools can you actually use RIGHT NOW? Let's explore the AI revolution happening in your pocket.
+                </aside>
+            </section>
+
+            <!-- Slide 9: ChatGPT & LLMs -->
+            <section>
+                <h2>AI That Talks Back</h2>
+                <div class="split-slide">
+                    <div>
+                        <h3 class="highlight">Large Language Models (LLMs):</h3>
+                        <ul>
+                            <li class="fragment">Trained on massive amounts of text from the internet</li>
+                            <li class="fragment">Can write essays, code, poems, explain concepts</li>
+                            <li class="fragment">Conversational and surprisingly human-like</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="highlight">Real Uses:</h3>
+                        <ul>
+                            <li class="fragment">Homework help (but don't just copy!)</li>
+                            <li class="fragment">Learning new topics</li>
+                            <li class="fragment">Brainstorming ideas</li>
+                            <li class="fragment">Writing assistance</li>
+                            <li class="fragment">Coding help</li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="fragment warning" style="margin-top: 2rem; text-align: center;">
+                    ⚠️ They can be wrong! Always verify information!
+                </p>
+                <aside class="notes">
+                    ChatGPT broke records with 100 million users in 2 months! These language models are game-changers for learning and productivity.
+                    BUT - they're tools to enhance your thinking, not replace it. They can be wrong, they can "hallucinate" fake information. Always verify!
+                </aside>
+            </section>
+
+            <!-- TODO: Add remaining slides following the same pattern -->
+            <!-- Use presentation-outline.md as reference for content -->
+            <!-- Slides 10-25 should follow similar structure -->
+
+            <!-- Placeholder for remaining slides -->
+            <section data-background-color="#2c3e50">
+                <h2>🚧 Additional Slides</h2>
+                <p style="font-size: 1.2em;">Continue adding slides 10-25 following the pattern above.</p>
+                <p>Refer to <code>presentation-outline.md</code> for complete content.</p>
+                <p style="margin-top: 2rem; color: var(--primary-color);">See <code>revealjs-guide.md</code> for detailed instructions.</p>
+            </section>
+
+            <!-- Final Slide: Q&A -->
+            <section class="title-slide" data-background-gradient="linear-gradient(135deg, #667eea 0%, #764ba2 100%)">
+                <h1>Questions?</h1>
+                <p style="font-size: 1.3em; margin-top: 2rem;">Let's discuss the future of AI together</p>
+            </section>
+
+        </div>
+    </div>
+
+    <!-- Reveal.js JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/reveal.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.6.1/plugin/notes/notes.min.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            center: false,
+            transition: 'slide',
+            transitionSpeed: 'default',
+            backgroundTransition: 'fade',
+            slideNumber: true,
+            progress: true,
+            controls: true,
+            keyboard: true,
+            overview: true,
+            touch: true,
+            loop: false,
+            rtl: false,
+            shuffle: false,
+            fragments: true,
+            fragmentInURL: true,
+            embedded: false,
+            help: true,
+            showNotes: false,
+            autoPlayMedia: null,
+            preloadIframes: null,
+            autoSlide: 0,
+            mouseWheel: false,
+            hideInactiveCursor: true,
+            hideCursorTime: 5000,
+            plugins: [ RevealNotes ]
+        });
+    </script>
+</body>
+</html>
