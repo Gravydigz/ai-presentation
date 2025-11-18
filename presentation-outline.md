@@ -1,11 +1,105 @@
 # AI & Information Technology Presentation
 **Target Audience:** 18-year-olds
 **Duration:** 20-30 minutes
-**Total Slides:** ~24 slides
+**Total Slides:** ~31 slides
 
 ---
 
-## Slide 1: Title Slide
+## Slide 1: About Me
+**Title:** Meet Your Presenter
+
+**Content:**
+- **Travis Robertson**
+- Information Technology Manager
+- Toppan Interamerica, Inc.
+
+**Visual Suggestions:**
+- Professional photo of Travis
+- Toppan company logo
+- Clean, professional layout
+
+**Presenter Notes:**
+Hi everyone, I'm Travis Robertson, and I serve as the Information Technology Manager at Toppan Interamerica. Before we dive into AI and technology, I wanted to share a little about myself and my journey into IT.
+
+---
+
+## Slide 2: Beyond the Office
+**Title:** Life Outside of IT
+
+**Content:**
+**Family:**
+- Married with three kids
+
+**Passion for Soccer:**
+- USSF Certified Referee (United States Soccer Federation)
+- NFHS Certified (National Federation of High Schools)
+- NCAA Soccer Referee
+
+**Visual Suggestions:**
+- Family photo
+- Referee action photo
+- Soccer-themed layout with referee elements
+
+**Presenter Notes:**
+Outside of technology, my life revolves around family and soccer. I'm married with three kids who keep me busy. My other passion is soccer - I'm a certified referee at multiple levels including USSF, NFHS, and NCAA. Being a referee has taught me a lot about quick decision-making, staying calm under pressure, and seeing situations from multiple perspectives - skills that actually translate well into IT management!
+
+---
+
+## Slide 3: My Journey
+**Title:** From Ola to IT Leadership
+
+**Content:**
+**Local Roots:**
+- Grew up right here in Ola, Georgia
+
+**Education:**
+- NCAA student-athlete at Clayton State University (Cross Country & Track)
+- First graduating class in Georgia with a Bachelor's in Information Technology
+- Pre-Y2K pioneer: CSU was among the first to offer a pure BIT degree
+- Switched from Business Administration to IT - best decision I ever made
+
+**Career at Toppan:**
+- Started as an intern my senior year
+- Grew through web design, networking, administration
+- Expanded into application development and Business Intelligence
+- Now manage all IT operations
+
+**Visual Suggestions:**
+- Personal photos (youth, college athletics, career milestones)
+- Timeline or journey graphic
+- Clayton State and Toppan logos
+
+**Presenter Notes:**
+I'm a local - grew up in Ola and went to Clayton State where I ran cross country and track. I was actually in the first graduating class in Georgia to receive a Bachelor's degree specifically in Information Technology. This was right before Y2K, when Clayton State was pioneering IT education with specialized tracks in networking, database, web design, and programming. I switched from Business Administration because I loved technology, and I've never looked back. I started at Toppan as an intern during my senior year, and the company has given me incredible opportunities to grow - from web design and networking, to application development and Business Intelligence, and now managing all of IT. My journey shows that technology careers can take you in many exciting directions.
+
+---
+
+## Slide 4: Community Involvement
+**Title:** Growing Through Community
+
+**Content:**
+**Technology Leadership:**
+- Leader, Atlanta VMware User Group (VMUG)
+- Officer, Board of Directors - Elevate Technology Community
+
+**Why User Communities Matter:**
+- Networking with peers facing similar challenges
+- Learning from real-world experiences (not just textbooks)
+- Staying current with rapidly changing technology
+- Giving back by sharing knowledge
+- Career growth and professional development
+
+**Visual Suggestions:**
+- VMUG and Elevate Technology Community logos
+- Photos from community events or meetups
+- Network/community connection graphic
+
+**Presenter Notes:**
+Beyond my day job, I'm actively involved in technology communities. I lead the Atlanta VMware User Group and serve as an officer on the board for the Elevate Technology Community. These communities have been invaluable to my career growth. User groups connect you with peers solving the same problems, expose you to new ideas and technologies, and create opportunities to both learn and teach. If there's one piece of advice I'd give to anyone entering IT: find your community. Whether it's a local meetup, online forum, or professional organization - surrounding yourself with others who share your passion accelerates your growth tremendously.
+
+---
+
+## Slide 5: Presentation Title
 **Title:** The Future is Now: Understanding AI and Information Technology
 
 **Subtitle:** From Science Fiction to Science Fact
@@ -19,7 +113,70 @@ Welcome everyone! Today we're diving into one of the most exciting and transform
 
 ---
 
-## Slide 2: Poll/Ice Breaker
+## Slide 6: Opening Video
+**Title:** Setting the Stage
+
+**Media:**
+- Play first 1:06 of 2001: A Space Odyssey - Trailer
+- Source: https://www.youtube.com/watch?v=oR_e9y-bka0
+
+**Visual Suggestions:**
+- Full screen video playback
+- Dim lights if possible for cinematic effect
+
+**Presenter Notes:**
+Before we begin, let's take a look at how Hollywood imagined AI over 50 years ago. This is from 2001: A Space Odyssey, released in 1968 - a film that shaped how an entire generation thought about artificial intelligence. [Play clip - 1:06]
+
+---
+
+## Slide 7: Video Discussion & AI in Pop Culture
+**Title:** AI on the Big Screen
+
+**Content:**
+**Discussion Questions:**
+- Who can tell me the name of that movie and when was it released?
+- Answer: 2001: A Space Odyssey (1968)
+
+**Why I Love This Movie:**
+- One of my all-time favorites
+- Pioneered how we think about AI in film
+- HAL 9000 raised questions about AI consciousness, trust, and control that we're still asking today
+
+**Your Turn:**
+- What's YOUR favorite movie or show with an AI character?
+
+**If No Answers - Suggestions:**
+- **JARVIS / Friday** (Iron Man/Avengers)
+- **Ultron** (Avengers: Age of Ultron)
+- **Baymax** (Big Hero 6)
+- **Samantha** (Her)
+- **Skynet / T-800** (Terminator)
+- **Agent Smith** (The Matrix)
+- **Vision** (Avengers)
+- **TARS** (Interstellar)
+- **GLaDOS** (Portal)
+- **C-3PO / R2-D2 / BB-8** (Star Wars)
+
+**Visual Suggestions:**
+- Grid of AI character images:
+  - HAL 9000's red eye
+  - JARVIS interface
+  - Ultron
+  - Baymax
+  - Terminator T-800
+  - Agent Smith
+  - Vision
+  - C-3PO and R2-D2
+- Make it visually engaging with recognizable characters
+
+**Presenter Notes:**
+So, who can tell me what movie that was from and when it was released? [Wait for answers] That's right - 2001: A Space Odyssey from 1968! This is one of my favorite movies of all time. It was groundbreaking in how it portrayed AI - HAL 9000 wasn't just a villain, it raised deep questions about what happens when AI has its own priorities, when we can't fully understand or control what we've created. These are the same questions we're wrestling with today, over 50 years later.
+
+Now I want to hear from you - what's YOUR favorite movie or TV show with an AI character? [Wait for responses] [If quiet, prompt with examples] How about JARVIS from Iron Man? Ultron? Baymax from Big Hero 6? The Terminator? What AI characters do you find interesting?
+
+---
+
+## Slide 8: Poll/Ice Breaker
 **Title:** Quick Question
 
 **Content:**
@@ -38,7 +195,7 @@ Let's start interactive! The truth is, most of us use AI multiple times a day wi
 
 ---
 
-## Slide 3: The Sci-Fi Promise
+## Slide 9: The Sci-Fi Promise
 **Title:** AI in Pop Culture: The Dream (and the Nightmare)
 
 **Content:**
@@ -60,7 +217,7 @@ For decades, Hollywood has been both fascinated and terrified by AI. HAL 9000 sh
 
 ---
 
-## Slide 4: What Actually IS Artificial Intelligence?
+## Slide 10: What Actually IS Artificial Intelligence?
 **Title:** AI Demystified
 
 **Content:**
@@ -83,7 +240,7 @@ Strip away the Hollywood drama, and AI is fundamentally about pattern recognitio
 
 ---
 
-## Slide 5: A Brief History
+## Slide 11: A Brief History
 **Title:** From Theory to Reality
 
 **Timeline:**
@@ -103,7 +260,7 @@ AI isn't new - it's been developing for over 70 years! But we've seen exponentia
 
 ---
 
-## Slide 6: How Does AI Actually Work?
+## Slide 12: How Does AI Actually Work?
 **Title:** The Magic Behind the Curtain
 
 **Content:**
@@ -124,7 +281,7 @@ Machine learning is the engine behind most modern AI. It's not programmed with e
 
 ---
 
-## Slide 7: Types of AI You Should Know
+## Slide 13: Types of AI You Should Know
 **Title:** The AI Family Tree
 
 **Content:**
@@ -152,7 +309,7 @@ Important distinction: Today's AI is "narrow" - your Spotify AI can't suddenly d
 
 ---
 
-## Slide 8: Section Transition - Modern AI Tools
+## Slide 14: Section Transition - Modern AI Tools
 **Title:** AI in YOUR World
 
 **Visual Suggestions:**
@@ -164,7 +321,7 @@ Now let's get practical. What AI tools can you actually use RIGHT NOW? Let's exp
 
 ---
 
-## Slide 9: ChatGPT & Language Models
+## Slide 15: ChatGPT & Language Models
 **Title:** AI That Talks Back
 
 **Content:**
@@ -189,7 +346,7 @@ ChatGPT broke records with 100 million users in 2 months! These language models 
 
 ---
 
-## Slide 10: AI Image & Video Generation
+## Slide 16: AI Image & Video Generation
 **Title:** Creating Worlds with Words
 
 **Content:**
@@ -216,7 +373,7 @@ This is where AI gets wild. These tools can create professional-quality artwork 
 
 ---
 
-## Slide 11: AI in Creative Fields
+## Slide 17: AI in Creative Fields
 **Title:** The Creative Revolution
 
 **Content:**
@@ -237,7 +394,7 @@ AI is democratizing creativity. You don't need years of Photoshop training to cr
 
 ---
 
-## Slide 12: AI in Daily Life
+## Slide 18: AI in Daily Life
 **Title:** AI You Didn't Know Was AI
 
 **Content:**
@@ -257,7 +414,7 @@ AI is the invisible engine running modern digital life. That Instagram filter? A
 
 ---
 
-## Slide 13: Section Transition - The Dark Side
+## Slide 19: Section Transition - The Dark Side
 **Title:** With Great Power...
 
 **Media:**
@@ -269,7 +426,7 @@ Now we need to talk about the concerns. AI is incredibly powerful, and power alw
 
 ---
 
-## Slide 14: AI Bias & Fairness
+## Slide 20: AI Bias & Fairness
 **Title:** Garbage In, Garbage Out
 
 **Content:**
@@ -293,7 +450,7 @@ AI isn't neutral - it reflects the biases in its training data. If we train an A
 
 ---
 
-## Slide 15: Deepfakes & Misinformation
+## Slide 21: Deepfakes & Misinformation
 **Title:** Seeing Isn't Believing Anymore
 
 **Content:**
@@ -322,7 +479,7 @@ Remember when seeing was believing? Not anymore. AI can now create video of anyo
 
 ---
 
-## Slide 16: Privacy & Surveillance
+## Slide 22: Privacy & Surveillance
 **Title:** Big Brother is Learning
 
 **Content:**
@@ -346,7 +503,7 @@ AI makes mass surveillance not just possible, but efficient. Governments and cor
 
 ---
 
-## Slide 17: Job Displacement
+## Slide 23: Job Displacement
 **Title:** Will AI Take My Job?
 
 **Content:**
@@ -374,7 +531,7 @@ This is the question everyone asks. Yes, AI will replace some jobs - just like c
 
 ---
 
-## Slide 18: AI Existential Risk
+## Slide 24: AI Existential Risk
 **Title:** The Terminator Question
 
 **Content:**
@@ -402,7 +559,7 @@ Let's address the elephant in the room: Will AI destroy humanity? Probably not l
 
 ---
 
-## Slide 19: Environmental Impact
+## Slide 25: Environmental Impact
 **Title:** The Hidden Cost of AI
 
 **Content:**
@@ -426,7 +583,7 @@ Something people don't talk about enough: AI is energy-hungry. Training and runn
 
 ---
 
-## Slide 20: Section Transition - Moving Forward
+## Slide 26: Section Transition - Moving Forward
 **Title:** So... What Now?
 
 **Visual Suggestions:**
@@ -438,7 +595,7 @@ We've seen the incredible potential and serious concerns. AI isn't good or evil 
 
 ---
 
-## Slide 21: AI Governance & Regulation
+## Slide 27: AI Governance & Regulation
 **Title:** Who Makes the Rules?
 
 **Content:**
@@ -462,7 +619,7 @@ Governments worldwide are scrambling to figure out AI regulation. Too much regul
 
 ---
 
-## Slide 22: Your Role in the AI Future
+## Slide 28: Your Role in the AI Future
 **Title:** How Can YOU Get Involved?
 
 **Content:**
@@ -496,7 +653,7 @@ This isn't some distant future - AI is HERE, and you're at the perfect age to sh
 
 ---
 
-## Slide 23: Resources to Continue Learning
+## Slide 29: Resources to Continue Learning
 **Title:** Your AI Journey Starts Here
 
 **Content:**
@@ -525,7 +682,7 @@ Want to dive deeper? Here are fantastic free resources. AI is one of the most ex
 
 ---
 
-## Slide 24: Closing - The Choice is Ours
+## Slide 30: Closing - The Choice is Ours
 **Title:** The Future Isn't Written
 
 **Content:**
@@ -552,7 +709,7 @@ Unlike HAL, Skynet, or the MCP, AI's future isn't predetermined. We're writing t
 
 ---
 
-## Slide 25: Q&A
+## Slide 31: Q&A
 **Title:** Questions?
 
 **Visual Suggestions:**
