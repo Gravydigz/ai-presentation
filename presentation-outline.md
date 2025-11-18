@@ -1,7 +1,7 @@
 # AI & Information Technology Presentation
 **Target Audience:** 18-year-olds
 **Duration:** 20-30 minutes
-**Total Slides:** ~31 slides
+**Total Slides:** ~25 slides
 
 ---
 
@@ -176,48 +176,7 @@ Now I want to hear from you - what's YOUR favorite movie or TV show with an AI c
 
 ---
 
-## Slide 8: Poll/Ice Breaker
-**Title:** Quick Question
-
-**Content:**
-- How many of you have used AI today?
-  - ChatGPT or similar AI chatbot
-  - Social media recommendations
-  - Auto-correct on your phone
-  - Music/video streaming suggestions
-
-**Visual Suggestions:**
-- Interactive poll graphics
-- Icons representing different AI applications
-
-**Presenter Notes:**
-Let's start interactive! The truth is, most of us use AI multiple times a day without even realizing it. Whether it's your phone's autocorrect, Netflix recommendations, or that Snapchat filter - AI is already part of your daily routine.
-
----
-
-## Slide 9: The Sci-Fi Promise
-**Title:** AI in Pop Culture: The Dream (and the Nightmare)
-
-**Content:**
-- **HAL 9000** (2001: A Space Odyssey) - "I'm sorry, Dave. I can't do that."
-- **Skynet** (Terminator) - When AI decides humans are the problem
-- **Master Control Program** (Tron) - AI taking over the digital world
-
-**Media:**
-- Video clip: HAL 9000's iconic red eye
-- Image: Terminator T-800 endoskeleton
-- Clip: MCP from Tron
-
-**Visual Suggestions:**
-- Three-panel layout with iconic scenes
-- Dark, dramatic aesthetic
-
-**Presenter Notes:**
-For decades, Hollywood has been both fascinated and terrified by AI. HAL 9000 showed us an AI that became too independent. The Terminator warned us about AI apocalypse. These movies shaped how we think about AI - often focusing on the scary "what ifs." But how close are these to reality?
-
----
-
-## Slide 10: What Actually IS Artificial Intelligence?
+## Slide 8: What is Artificial Intelligence?
 **Title:** AI Demystified
 
 **Content:**
@@ -226,499 +185,474 @@ For decades, Hollywood has been both fascinated and terrified by AI. HAL 9000 sh
 - Adapt to new inputs
 - Perform human-like tasks
 
-**Think of it as:**
-- Teaching a computer to recognize patterns
-- Like training a really smart digital assistant
-- Not (yet) creating conscious beings like in the movies
+**How It Works:**
+1. Feed it data (thousands/millions of examples)
+2. It finds patterns
+3. It makes predictions
+4. It improves from mistakes
+
+**Think of it as:** Teaching a computer to recognize patterns - like showing a toddler 1,000 pictures of dogs until they can spot one anywhere!
 
 **Visual Suggestions:**
 - Brain icon connected to computer chip
 - Simple flowchart showing data → learning → decision making
 
 **Presenter Notes:**
-Strip away the Hollywood drama, and AI is fundamentally about pattern recognition and learning. It's software that gets better at tasks through experience - similar to how you get better at a video game the more you play.
+Strip away the Hollywood drama, and AI is fundamentally about pattern recognition and learning. It's software that gets better at tasks through experience - similar to how you get better at a video game the more you play. It's not programmed with explicit rules - instead, it learns patterns from massive amounts of data.
 
 ---
 
-## Slide 11: A Brief History
-**Title:** From Theory to Reality
-
-**Timeline:**
-- **1950s** - Alan Turing asks "Can machines think?"
-- **1997** - Deep Blue beats world chess champion
-- **2011** - IBM Watson wins Jeopardy!
-- **2016** - AlphaGo defeats Go world champion
-- **2022** - ChatGPT launches, AI goes mainstream
-- **2023-2025** - AI explosion in creative tools, coding, and more
-
-**Visual Suggestions:**
-- Animated timeline with key milestones
-- Images of each breakthrough moment
-
-**Presenter Notes:**
-AI isn't new - it's been developing for over 70 years! But we've seen exponential growth in the last decade. What took decades to achieve in chess now happens daily with more complex tasks.
-
----
-
-## Slide 12: How Does AI Actually Work?
-**Title:** The Magic Behind the Curtain
-
-**Content:**
-**Machine Learning 101:**
-1. **Feed it data** (thousands/millions of examples)
-2. **It finds patterns** (what makes a cat a cat, what makes spam spam)
-3. **It makes predictions** (is this email spam? is this image a cat?)
-4. **It improves** (learns from mistakes)
-
-**Analogy:** Like showing a toddler 1,000 pictures of dogs until they can spot a dog anywhere!
-
-**Visual Suggestions:**
-- Simple infographic showing the ML process
-- Before/after accuracy comparison
-
-**Presenter Notes:**
-Machine learning is the engine behind most modern AI. It's not programmed with explicit rules - instead, it learns patterns from massive amounts of data. The more data, the better it gets!
-
----
-
-## Slide 13: Types of AI You Should Know
-**Title:** The AI Family Tree
-
-**Content:**
-**Narrow AI** (What we have now)
-- Good at ONE specific task
-- Chess AI, voice assistants, recommendation systems
-- Can't transfer skills to other tasks
-
-**General AI** (The sci-fi dream)
-- Can do ANY intellectual task a human can
-- Learns and adapts like humans
-- We're NOT there yet!
-
-**Super AI** (The Terminator scenario)
-- Surpasses human intelligence in every way
-- Purely theoretical
-- Decades or centuries away (if ever)
-
-**Visual Suggestions:**
-- Three-tier pyramid showing progression
-- Icons representing each type
-
-**Presenter Notes:**
-Important distinction: Today's AI is "narrow" - your Spotify AI can't suddenly decide to drive your car. We don't have the human-level AI from the movies yet, and we're nowhere near Skynet territory!
-
----
-
-## Slide 14: Section Transition - Modern AI Tools
-**Title:** AI in YOUR World
-
-**Visual Suggestions:**
-- Montage of modern apps and services
-- Person using various AI tools on laptop/phone
-
-**Presenter Notes:**
-Now let's get practical. What AI tools can you actually use RIGHT NOW? Let's explore the AI revolution happening in your pocket.
-
----
-
-## Slide 15: ChatGPT & Language Models
-**Title:** AI That Talks Back
-
-**Content:**
-**Large Language Models (LLMs):**
-- Trained on massive amounts of text from the internet
-- Can write essays, code, poems, explain concepts
-- Conversational and surprisingly human-like
-
-**Real Uses:**
-- Homework help (but don't just copy!)
-- Learning new topics
-- Brainstorming ideas
-- Writing assistance
-- Coding help
-
-**Visual Suggestions:**
-- Screenshot of ChatGPT interface
-- Examples of prompts and responses
-
-**Presenter Notes:**
-ChatGPT broke records with 100 million users in 2 months! These language models are game-changers for learning and productivity. BUT - they're tools to enhance your thinking, not replace it. They can be wrong, they can "hallucinate" fake information. Always verify!
-
----
-
-## Slide 16: AI Image & Video Generation
-**Title:** Creating Worlds with Words
-
-**Content:**
-**DALL-E, Midjourney, Stable Diffusion:**
-- Type what you want to see
-- AI generates unique images
-- Getting scarily good at photorealism
-
-**Sora & Video AI:**
-- Text-to-video generation
-- Creating short films from descriptions
-- The future of content creation?
-
-**Examples:**
-- "Astronaut riding a horse on Mars"
-- "Van Gogh painting of a cyberpunk city"
-
-**Visual Suggestions:**
-- Gallery of AI-generated images
-- Before/after: text prompt → generated image
-
-**Presenter Notes:**
-This is where AI gets wild. These tools can create professional-quality artwork in seconds. Artists are debating: Is this the end of traditional art, or just a new tool? We'll explore these ethical questions soon.
-
----
-
-## Slide 17: AI in Creative Fields
-**Title:** The Creative Revolution
-
-**Content:**
-**Music:** AI composing original songs (Suno, Udio)
-**Video:** AI editing, effects, deepfakes
-**Writing:** AI co-writing books, scripts
-**Game Development:** AI-generated characters, worlds, dialogue
-**Design:** Logo creation, UI/UX assistance
-
-**The Question:** Does AI enhance human creativity or replace it?
-
-**Visual Suggestions:**
-- Icons for each creative field
-- Split design showing human + AI collaboration
-
-**Presenter Notes:**
-AI is democratizing creativity. You don't need years of Photoshop training to create amazing visuals anymore. But this raises questions: What happens to professional artists? Is AI-generated art "real" art? These are debates happening right now.
-
----
-
-## Slide 18: AI in Daily Life
+## Slide 9: AI in Your Daily Life
 **Title:** AI You Didn't Know Was AI
 
 **Content:**
-- **Your Phone:** Face unlock, photo organization, predictive text
+- **Your Phone:** Face unlock, photo organization, predictive text, autocorrect
 - **Social Media:** Content recommendations, filters, targeted ads
+- **Entertainment:** Netflix/Spotify recommendations, TikTok For You page
 - **Shopping:** Amazon suggestions, dynamic pricing
 - **Transportation:** Waze traffic predictions, self-driving features
-- **Entertainment:** Netflix/Spotify recommendations
-- **Gaming:** NPCs, difficulty adjustment, anti-cheat systems
+- **Communication:** ChatGPT, voice assistants (Siri, Alexa)
 
 **Visual Suggestions:**
-- Grid layout with icons and brief descriptions
 - Smartphone in center with connections to various AI services
+- Grid layout with icons and brief descriptions
 
 **Presenter Notes:**
-AI is the invisible engine running modern digital life. That Instagram filter? AI. Your TikTok For You page? AI. Google Maps knowing there's traffic? AI. It's so integrated we don't even notice it anymore.
+The truth is, most of us use AI multiple times a day without even realizing it. That Instagram filter? AI. Your TikTok For You page? AI. Google Maps knowing there's traffic? AI. ChatGPT helping with homework? AI. It's so integrated we don't even notice it anymore.
 
 ---
 
-## Slide 19: Section Transition - The Dark Side
-**Title:** With Great Power...
-
-**Media:**
-- Clip: "I'm sorry, Dave" from 2001: A Space Odyssey
-- Or: Dark, glitching AI visualization
-
-**Presenter Notes:**
-Now we need to talk about the concerns. AI is incredibly powerful, and power always comes with responsibility. Let's explore the ethical challenges.
-
----
-
-## Slide 20: AI Bias & Fairness
-**Title:** Garbage In, Garbage Out
+## Slide 10: AI Capabilities & Modern Tools
+**Title:** What AI Can Do Today
 
 **Content:**
-**The Problem:**
-- AI learns from human-created data
-- If data is biased, AI is biased
-- Can perpetuate racism, sexism, other discrimination
+**Language Models (ChatGPT, Claude):**
+- Write essays, code, poems, explain concepts
+- Conversational and surprisingly human-like
+- Great for brainstorming, learning, writing assistance
 
-**Real Examples:**
-- Facial recognition less accurate for people of color
-- Hiring AI discriminating against women
-- Criminal justice AI with racial bias
-- Loan approval systems discriminating by zip code
+**Image & Video Generation (DALL-E, Midjourney, Sora):**
+- Create images from text descriptions
+- Generate videos from prompts
+- Professional-quality artwork in seconds
+
+**Creative Tools:**
+- AI composing music (Suno, Udio)
+- AI editing video and photos
+- Logo creation, design assistance
 
 **Visual Suggestions:**
-- Balanced scales that are tipped
-- Data flow showing bias propagation
+- Screenshots of AI tool interfaces
+- Examples of AI-generated content
 
 **Presenter Notes:**
-AI isn't neutral - it reflects the biases in its training data. If we train an AI on biased historical hiring data, it will learn to be biased. This is one of the biggest challenges in AI development: how do we make AI fair when human society isn't always fair?
+AI tools are incredibly powerful for productivity and creativity. ChatGPT broke records with 100 million users in 2 months! These tools can help you learn, create, and work more efficiently. BUT - and this is important - they're tools to enhance your thinking, not replace it.
 
 ---
 
-## Slide 21: Deepfakes & Misinformation
-**Title:** Seeing Isn't Believing Anymore
+## Slide 11: Where AI Falls Short
+**Title:** The Limitations of AI
 
 **Content:**
-**What are Deepfakes?**
-- AI-generated fake videos/audio
-- Can make anyone appear to say/do anything
-- Increasingly realistic and easy to create
+**Trust & Reliability:**
+- "Hallucinations" - confidently gives wrong information
+- Can't verify its own accuracy
+- No understanding of truth vs. fiction
 
-**The Dangers:**
-- Political manipulation
-- Celebrity exploitation
-- Fraud and scams
-- Destroying trust in media
+**Bias:**
+- Learns biases from training data
+- Can perpetuate discrimination
+- Reflects society's imperfections
 
-**Defense:**
-- Digital watermarking
-- AI detection tools
-- Media literacy education
+**Emotional Intelligence & Empathy:**
+- Can't truly understand feelings
+- No real compassion or connection
+- Misses emotional nuance
 
 **Visual Suggestions:**
-- Split screen: real vs deepfake
-- Warning symbols and digital glitch effects
+- Icons representing each limitation
+- Balance scale showing AI vs Human strengths
 
 **Presenter Notes:**
-Remember when seeing was believing? Not anymore. AI can now create video of anyone saying anything. Imagine a deepfake of a world leader declaring war, or your friend asking you to send money. This tech exists NOW. Critical thinking and media literacy are more important than ever.
+Here's what's crucial to understand: AI has significant limitations. It can "hallucinate" - meaning it confidently makes up facts. It inherits biases from its training data. And it has zero emotional intelligence - it can mimic empathy but doesn't actually understand or feel anything.
 
 ---
 
-## Slide 22: Privacy & Surveillance
-**Title:** Big Brother is Learning
+## Slide 12: More AI Limitations
+**Title:** What AI Can't Do
 
 **Content:**
-**AI-Powered Surveillance:**
-- Facial recognition everywhere
-- Behavior prediction algorithms
-- Data collection and profiling
-- Social credit systems (China)
+**Common Sense Reasoning:**
+- Struggles with obvious real-world logic
+- Doesn't understand cause and effect like humans
+- Can miss context that seems obvious to us
 
-**The Balance:**
-- Security vs. Privacy
-- Convenience vs. Control
-- Freedom vs. Safety
+**True Creativity:**
+- Remixes existing patterns, doesn't truly innovate
+- Can't have original ideas or inspiration
+- Lacks the "spark" of human creativity
+
+**Ethics & Judgment:**
+- No moral compass
+- Can't make ethical decisions independently
+- Doesn't understand right from wrong
 
 **Visual Suggestions:**
-- Security camera with AI recognition overlay
-- Eye in circuit board pattern
+- Comparison chart: AI vs Human capabilities
+- Icons for each limitation area
 
 **Presenter Notes:**
-AI makes mass surveillance not just possible, but efficient. Governments and corporations can track, analyze, and predict behavior at unprecedented scales. The question: How much privacy are we willing to sacrifice for security or convenience?
+AI also lacks common sense - it can miss things that are obvious to any human. It's not truly creative - it remixes patterns but doesn't have original ideas or inspiration. And critically, it has no ethics - it can't tell right from wrong, can't make moral judgments, and doesn't understand the impact of its outputs.
 
 ---
 
-## Slide 23: Job Displacement
-**Title:** Will AI Take My Job?
+## Slide 13: The Human Advantage
+**Title:** Why These Limitations Matter for YOUR Career
 
 **Content:**
-**Jobs at Risk:**
-- Routine, repetitive tasks
-- Data entry, basic analysis
-- Some customer service
-- Certain creative work
+**The Opportunity:**
+AI's weaknesses are YOUR strengths to develop!
 
-**Jobs Being Created:**
-- AI trainers and supervisors
-- AI ethics specialists
-- Data scientists
-- Prompt engineers
-- Human-AI collaboration roles
+**High-Value Human Skills:**
+- Emotional intelligence & empathy
+- Critical thinking & common sense
+- True creativity & innovation
+- Ethical judgment & integrity
+- Building trust & relationships
+- Understanding context & nuance
 
-**The Truth:** AI will change jobs more than eliminate them
+**The Bottom Line:**
+AI will change jobs, but human skills become MORE valuable, not less.
 
 **Visual Suggestions:**
-- Split timeline showing job evolution
-- Robot and human shaking hands
+- Human figure with highlighted strengths
+- Arrow showing "AI limitations → Your career opportunities"
 
 **Presenter Notes:**
-This is the question everyone asks. Yes, AI will replace some jobs - just like computers, cars, and electricity did before. But it will also create new jobs we can't even imagine yet. The key is adaptability and continuous learning. Skills in working WITH AI will be crucial.
+Here's the key insight: AI's limitations are exactly where you can build your competitive advantage. The skills that AI can't do well - emotional intelligence, critical thinking, creativity, ethics - these become MORE valuable as AI handles routine tasks. This is where you should focus your development.
 
 ---
 
-## Slide 24: AI Existential Risk
-**Title:** The Terminator Question
+## Slide 14: Section Transition - Career Development
+**Title:** Building Your Career in IT
+
+**Visual Suggestions:**
+- Road extending toward horizon
+- Professional growth imagery
+- Transition from AI discussion to career focus
+
+**Presenter Notes:**
+So we've talked about what AI can and can't do. Now let's talk about something even more important: how YOU can build a successful career in IT by developing the skills that matter most - the uniquely human skills that AI can't replicate.
+
+---
+
+## Slide 15: Follow Your Passion
+**Title:** Choose What Excites You
 
 **Content:**
-**Is Skynet Possible?**
-- Most experts: Not with current AI
-- We're nowhere near conscious AI
-- But we should be cautious
+**The Foundation of a Great Career:**
+- Pursue things you're genuinely interested in
+- Find work that excites and energizes you
+- Care deeply about what you do
 
-**Real Concerns:**
-- Autonomous weapons
-- AI systems we don't understand
-- Misaligned goals (AI does what we asked, not what we wanted)
-- Concentration of power
+**Why Passion Matters:**
+- You'll put in extra effort naturally
+- Challenges become interesting problems, not obstacles
+- Continuous learning feels rewarding, not exhausting
+- You'll stand out because you genuinely care
 
-**Media:**
-- Image: Terminator with "FICTION" overlay
-- Contrasted with real AI risks
+**My Example:**
+- Switched from Business Administration to IT because I loved technology
+- Best decision I ever made
 
 **Visual Suggestions:**
-- Movie fiction vs reality comparison
-- Timeline showing how far we are from AGI
+- Inspirational imagery
+- Person engaged and excited about work
+- Your personal photos showing passion (athletics, refereeing, tech)
 
 **Presenter Notes:**
-Let's address the elephant in the room: Will AI destroy humanity? Probably not like in Terminator. Current AI can't "decide" to do anything - it's not conscious. But we DO need to worry about: autonomous weapons, AI we don't understand, and AI in the wrong hands. It's less "robot uprising" and more "powerful tool used badly."
+Before we talk about specific skills, let's talk about the foundation: passion. I switched from Business Administration to IT because I genuinely loved technology - and it's made all the difference. When you're passionate about something, you naturally put in the effort to get better. You'll read about it, experiment with it, talk about it. That enthusiasm shows, and it sets you apart.
 
 ---
 
-## Slide 25: Environmental Impact
-**Title:** The Hidden Cost of AI
+## Slide 16: Emotional Intelligence & Empathy
+**Title:** Connect with People
 
 **Content:**
-**AI's Energy Problem:**
-- Training large AI models uses massive electricity
-- GPT-3 training: ~1,287 MWh (equivalent to 120 US homes for a year)
-- Data centers running 24/7
-- Growing carbon footprint
+**What It Means:**
+- Understanding others' perspectives and feelings
+- Communicating effectively with different people
+- Building genuine relationships and trust
 
-**The Bright Side:**
-- AI optimizing energy grids
-- AI for climate modeling
-- AI improving efficiency in other industries
+**How to Develop It:**
+- Practice active listening
+- Seek to understand before being understood
+- Work on teams with diverse people
+- Get feedback and reflect on interactions
+
+**Connections:**
+- **Athletics:** Understanding teammates, reading opponents
+- **Spirituality:** Compassion, service to others
+- **Education:** Group projects, mentoring
 
 **Visual Suggestions:**
-- Power plant with AI server farm
-- Energy consumption comparison chart
+- People connecting and collaborating
+- Icons for listening, understanding, connecting
 
 **Presenter Notes:**
-Something people don't talk about enough: AI is energy-hungry. Training and running these models requires massive computational power. As AI grows, so does its environmental impact. The industry needs to find sustainable solutions.
+Emotional intelligence is something AI simply cannot replicate. In IT, we often think it's all about technical skills - but the best IT professionals I know are great with people. They can explain complex concepts to non-technical users. They understand what stakeholders really need. They build trust with their teams. These skills come from athletics - understanding your teammates - from spirituality - having compassion - and from education - working in groups.
 
 ---
 
-## Slide 26: Section Transition - Moving Forward
-**Title:** So... What Now?
-
-**Visual Suggestions:**
-- Road extending toward horizon with AI elements
-- Split between dystopian and utopian future
-
-**Presenter Notes:**
-We've seen the incredible potential and serious concerns. AI isn't good or evil - it's a tool. The question is: how do we ensure it's developed and used responsibly?
-
----
-
-## Slide 27: AI Governance & Regulation
-**Title:** Who Makes the Rules?
+## Slide 17: Critical Thinking & Problem Solving
+**Title:** Think Beyond the Obvious
 
 **Content:**
-**Current Approaches:**
-- EU AI Act (risk-based regulation)
-- US: Industry self-regulation (mostly)
-- China: Government control
-- International AI Safety Summit
+**What It Means:**
+- Analyzing situations from multiple angles
+- Questioning assumptions
+- Making sound judgments with incomplete information
 
-**Key Debates:**
-- Innovation vs. Safety
-- National security vs. transparency
-- Corporate power vs. public interest
+**How to Develop It:**
+- Ask "why" repeatedly - dig deeper
+- Consider alternative explanations
+- Learn from mistakes and failures
+- Practice making decisions under pressure
+
+**Connections:**
+- **Athletics:** Split-second decisions, game strategy
+- **Education:** Research, analysis, debate
+- **Refereeing:** Making fair calls with limited information
 
 **Visual Suggestions:**
-- World map showing different regulatory approaches
-- Balance scale with innovation and safety
+- Problem-solving imagery
+- Thought process flowchart
+- Decision-making under pressure
 
 **Presenter Notes:**
-Governments worldwide are scrambling to figure out AI regulation. Too much regulation might stifle innovation. Too little could be dangerous. There's no consensus yet on the right approach. This is policy being written in real-time.
+AI can process data, but it can't truly think critically. As a referee, I have to make calls with incomplete information in split seconds - and those decisions have to be fair and defensible. That's critical thinking in action. In IT, you'll constantly face problems where you don't have all the answers. The ability to analyze, question assumptions, and make good judgments is invaluable.
 
 ---
 
-## Slide 28: Your Role in the AI Future
-**Title:** How Can YOU Get Involved?
+## Slide 18: Creativity & Innovation
+**Title:** Create Something New
 
 **Content:**
-**Learn & Experiment:**
-- Try AI tools (ChatGPT, image generators)
-- Take online courses (free on YouTube, Coursera)
-- Build simple AI projects
+**What It Means:**
+- Generating truly original ideas
+- Finding novel solutions to problems
+- Connecting unrelated concepts in new ways
 
-**Stay Informed:**
-- Follow AI developments
-- Understand the technology you use
-- Think critically about AI claims
+**How to Develop It:**
+- Expose yourself to diverse experiences and ideas
+- Experiment and don't fear failure
+- Collaborate with people from different backgrounds
+- Take time to reflect and let ideas develop
 
-**Consider a Career:**
-- Computer Science / AI Engineering
-- Data Science
-- AI Ethics & Policy
-- Human-Computer Interaction
-
-**Be an Advocate:**
-- Push for responsible AI
-- Call out bias and misuse
-- Support ethical AI development
+**Connections:**
+- **Athletics:** Adapting strategies, improvising
+- **Spirituality:** Finding meaning, seeing bigger picture
+- **Education:** Projects, creative assignments
 
 **Visual Suggestions:**
-- Four quadrant layout with icons
-- Empowering, forward-looking design
+- Light bulb, innovation imagery
+- Creative process visualization
 
 **Presenter Notes:**
-This isn't some distant future - AI is HERE, and you're at the perfect age to shape where it goes. Whether you become an AI developer, a policy maker, an artist using AI tools, or just an informed citizen - your generation will decide how AI impacts humanity.
+AI remixes existing patterns - it doesn't truly create. Human creativity comes from connecting disparate ideas, from inspiration, from that "aha" moment. In my career, the most valuable contributions haven't been following procedures - they've been finding new ways to solve problems. Creativity comes from diverse experiences, from taking risks, from collaboration.
 
 ---
 
-## Slide 29: Resources to Continue Learning
-**Title:** Your AI Journey Starts Here
+## Slide 19: Ethics & Integrity
+**Title:** Do the Right Thing
 
 **Content:**
-**Free Learning:**
-- fast.ai - Practical AI courses
-- YouTube: 3Blue1Brown, Two Minute Papers
-- Google's AI courses
-- ChatGPT itself (learn by using!)
+**What It Means:**
+- Making decisions based on values, not just rules
+- Being honest and trustworthy
+- Considering impact on others
 
-**Communities:**
-- r/MachineLearning, r/ArtificialIntelligence
-- Discord AI communities
-- Local hackathons and workshops
+**How to Develop It:**
+- Define your personal values
+- Practice making ethical decisions in small things
+- Seek mentors with strong integrity
+- Hold yourself accountable
 
-**Stay Updated:**
-- MIT Technology Review
-- The Verge AI coverage
-- Papers with Code
+**Connections:**
+- **Spirituality:** Moral foundation, purpose
+- **Athletics:** Sportsmanship, fair play
+- **Refereeing:** Impartial judgment, fairness
 
 **Visual Suggestions:**
-- QR codes linking to resources
-- Resource cards with logos
+- Compass, integrity symbols
+- Person making principled decisions
 
 **Presenter Notes:**
-Want to dive deeper? Here are fantastic free resources. AI is one of the most exciting fields to learn about right now, and there's never been more accessible education available.
+AI has no moral compass. It can't tell right from wrong. But in IT, you'll face ethical decisions constantly - about data privacy, security, user impact, honest communication. Your integrity is your reputation. In refereeing, I have to be impartial and fair, even under pressure. That same ethical foundation applies to every aspect of your career.
 
 ---
 
-## Slide 30: Closing - The Choice is Ours
-**Title:** The Future Isn't Written
+## Slide 20: Continuous Learning
+**Title:** Never Stop Growing
 
 **Content:**
+**What It Means:**
+- Staying curious and adaptable
+- Embracing new technologies and methods
+- Learning from every experience
+
+**How to Develop It:**
+- Read, watch, listen - consume information
+- Experiment with new tools and technologies
+- Join communities (like VMUG, Elevate)
+- Teach others - it deepens your understanding
+
+**Connections:**
+- **Education:** Foundation for lifelong learning
+- **Athletics:** Constantly improving technique
+- **Technology:** Field that never stops evolving
+
+**Visual Suggestions:**
+- Growth mindset imagery
+- Books, courses, community logos
+
+**Presenter Notes:**
+Technology changes constantly. What I learned in college about networking is mostly obsolete now. The specific technologies will change - but the habit of continuous learning never goes out of style. Join user communities like VMUG or Elevate. Read blogs, take courses, experiment. The most successful IT professionals I know are perpetual learners.
+
+---
+
+## Slide 21: Understanding Cloud & Virtualization
+**Title:** From Bare Metal to the Cloud
+
+**Content:**
+**The Evolution:**
+1. **Bare Metal** - One operating system per physical server
+2. **Hypervisors** - Multiple virtual machines on one server (VMware, Hyper-V)
+3. **Containers** - Lightweight, portable application packages (Docker, Kubernetes)
+4. **Cloud** - On-demand computing resources over the internet (AWS, Azure, Google Cloud)
+
+**What is "The Cloud"?**
+- Someone else's computers in a data center
+- Pay for what you use
+- Scale up or down instantly
+- Powers most modern applications and AI
+
+**Learning Hands-On: Home Labs**
+- Set up your own virtualization environment
+- Experiment with containers, networks, servers
+- Break things safely and learn from it
+- Low cost way to gain real experience
+
+**Visual Suggestions:**
+- Timeline showing evolution from bare metal → hypervisors → containers → cloud
+- Simple cloud architecture diagram
+- Home lab setup example
+
+**Presenter Notes:**
+Let me give you a concrete example of continuous learning in action. Understanding cloud and virtualization is essential in modern IT. Here's how it evolved: We started with bare metal - one server, one operating system. Then came hypervisors like VMware - which is why I lead the VMware User Group - allowing multiple virtual machines on one physical server. Then containers made applications even more portable. And now "the cloud" - which is really just someone else's computers that you rent on demand.
+
+One of the best ways to learn this is with a home lab. You can set up old hardware or use your own computer to experiment with virtualization, containers, and networking. You can break things without consequences and learn how they really work. It's hands-on learning that you can't get from books alone.
+
+---
+
+## Slide 22: Building Relationships & Community
+**Title:** Your Network is Your Net Worth
+
+**Content:**
+**What It Means:**
+- Building genuine professional relationships
+- Contributing to communities
+- Helping others succeed
+
+**How to Develop It:**
+- Join professional organizations and user groups
+- Attend meetups, conferences, events
+- Give back - mentor, present, share knowledge
+- Stay in touch with colleagues and connections
+
+**My Experience:**
+- Atlanta VMware User Group Leader
+- Elevate Technology Community Board Officer
+- These communities accelerated my growth
+
+**Visual Suggestions:**
+- Network/community graphics
+- VMUG and Elevate logos
+- Photos from community events
+
+**Presenter Notes:**
+One of the best decisions I made was getting involved in technology communities. The Atlanta VMUG and Elevate have connected me with peers facing similar challenges, exposed me to new ideas, and created opportunities I never would have found otherwise. Your network opens doors. And importantly - don't just take, give back. Share your knowledge, help others, contribute.
+
+---
+
+## Slide 23: IT Career Paths
+**Title:** More Than Just Programming
+
+**Content:**
+**Technical Roles:**
+- Developer / Programmer
+- Network Administrator
+- Database Administrator
+- Cybersecurity Analyst
+- Systems Administrator
+
+**Supporting Roles (IT knowledge + other skills):**
+- **Technical Writing / Documentation** - Explain complex systems clearly
+- **IT Sales / Pre-Sales Engineering** - Understand tech + connect with customers
+- **IT Marketing** - Communicate value of technology products
+- **Project Management** - Coordinate technical teams and deliverables
+- **IT Leadership / Management** - Guide strategy and teams
+- **Training / Education** - Teach others to use technology
+- **Business Analysis** - Bridge between business needs and tech solutions
+
+**The Key Insight:**
+You don't have to be a programmer to have a great IT career!
+
+**Visual Suggestions:**
+- Career path diagram showing different routes
+- Icons for each role type
+- Show how supporting roles connect to technical roles
+
+**Presenter Notes:**
+I want to make an important point: IT isn't just about programming or being highly technical. There are many supporting roles that require IT knowledge but focus on other skills. Technical writers document systems. IT sales people need to understand the technology they're selling. Marketing requires communicating technical value. Project managers coordinate technical teams. And leadership roles like mine focus on strategy and people. If you're interested in technology but also love writing, or working with people, or business - there's a path for you in IT.
+
+---
+
+## Slide 24: Putting It All Together
+**Title:** Your Career Development Plan
+
+**Content:**
+**The Formula:**
+1. **Find your passion** - What excites you?
+2. **Develop human skills** - EQ, critical thinking, creativity, ethics
+3. **Keep learning** - Stay curious, stay current
+4. **Build community** - Network, contribute, grow together
+5. **Use AI as a tool** - Enhance your work, don't be replaced by it
+
 **Remember:**
-- AI is a tool, not a destiny
-- We choose how to develop and use it
-- Stay curious, stay critical
-- Your voice matters in shaping AI's future
-
-**Final Thought:**
-*"The best way to predict the future is to invent it."* - Alan Kay
-
-**Media:**
-- Montage: Tron's optimistic digital frontier, humans working with technology
-- Avoid the Terminator doom - end on hope!
+- AI handles routine tasks
+- YOU provide the judgment, creativity, and connection
+- Human skills become MORE valuable, not less
 
 **Visual Suggestions:**
-- Inspiring, bright visual
-- Human and AI in collaboration
-- Open road / bright horizon
+- Summary infographic
+- Career development pathway visual
 
 **Presenter Notes:**
-Unlike HAL, Skynet, or the MCP, AI's future isn't predetermined. We're writing that story right now. Will it be a tool that amplifies human potential? Or a source of new problems? That depends on choices YOUR generation will make. Stay informed, stay engaged, and help build the AI future you want to live in. Thank you!
+So here's the formula: Start with passion - find what genuinely excites you. Then develop the human skills that AI can't replicate - emotional intelligence, critical thinking, creativity, ethics. Never stop learning. Build your network and contribute to communities. And use AI as a powerful tool to enhance your work. The future belongs to people who combine technical knowledge with strong human skills.
 
 ---
 
-## Slide 31: Q&A
+## Slide 25: Q&A
 **Title:** Questions?
 
 **Visual Suggestions:**
 - Simple, clean design
 - Contact info / social media if relevant
-- Fun AI-generated background
+- Your photo or professional graphic
 
 **Presenter Notes:**
-Open floor for questions. Be prepared for: job concerns, specific tool recommendations, ethical scenarios, technical deep-dives, comparison to sci-fi.
+Open floor for questions. Be prepared for: career advice, AI tool recommendations, how to get started in IT, education paths, community involvement, work-life balance, specific technology questions.
 
 ---
 
